@@ -4,7 +4,7 @@
 
 **A structured incident response lab built for repeatable IR cycles - practicing decisions, not tools. One incident type, run end-to-end, until the steps feel boring and the confidence shows up on its own.**
 
-Built by [Nathan Mathis](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) | IT Professional | 14+ Years Enterprise IT Experience
+Built by [Nathan Mathis](https://www.linkedin.com/in/n-mathis/) | IT Professional | 14+ Years Enterprise IT Experience
 
 ---
 
@@ -219,5 +219,5 @@ IT professional with 14+ years of enterprise experience in IMACD (Install, Move,
 
 The DFIR interest started with a data recovery project - pulling files off a 14-year-old hard drive using forensic techniques. That experience shifted my perspective from "IT support" to "evidence preservation" and opened a door I'm still walking through.
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- [LinkedIn](https://www.linkedin.com/in/n-mathis/)
 - [Resume available upon request]
