@@ -37,6 +37,8 @@ This lab follows the surgical training model: same incision, different patient. 
 
 All VMs operate on a host-only network. No internet exposure during incidents.
 
+![Lab Environment](images/Lab_Environment.png)
+
 ---
 
 ## The Workflow - 7 Phases
